@@ -1,0 +1,31 @@
+/**
+@mainpage Dokumentacja zadania gamma
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu gry gammma.
+
+Changelog 13.06 \n
+part1 \n
+implemented interactive mode specific gamma_board (fields of active player have green background),
+fixes for documentation, added some spaces \n
+part2 \n
+fix for bad input, more spaces
+
+Changelog 12.06 \n
+updated gamma_golden_possible, added terminal size check while initializaing interactive mode,
+added prompt which player is currently plying
+
+Changelog 17.05\n
+moved interactive mode from ncurses to ANSI escape codes
+
+Changelog 16.05\n
+various batch mode fixes
+
+Changlog 15.05\n
+imported dynamic arrays, batchmode and starting function
+*/
