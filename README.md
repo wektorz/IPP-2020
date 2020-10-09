@@ -1,4 +1,11 @@
 # IPP
+to build:
+cd release
+cmake ..
+make
+
+target is named gamma
+
 recomended usage:
 
 to start game
