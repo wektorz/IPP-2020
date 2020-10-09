@@ -1,4 +1,6 @@
 # IPP
+linux  only 
+
 to build:
 cd release
 cmake ..
